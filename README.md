@@ -1,6 +1,6 @@
 # I love to create teleragm bots as a side hobby. Feel free to try out my telegram bots! 🥳
 
-### 1) Decision Making Bot (@matchahelper_bot)
+### 1) Decision Making Bot ([@matchahelper_bot](https://t.me/matchahelper_bot))
 _I created this bot for my girlfriend as she always has difficulty making decisions. Try out the following commands:_
 1. /start - Introduction
 2. /race - Start a race to make decisions. For e.g. /race chocolate strawberry banana oreo
